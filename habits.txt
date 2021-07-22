@@ -5,4 +5,5 @@ As a programmer you need to
 - manage your time so that you get into your most productive time ASAP;
 - learn and improve all the time;
 - collaborate with other programmers;
+- get used to working alone;
 
