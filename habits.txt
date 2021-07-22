@@ -4,4 +4,5 @@ As a programmer you need to
 - keep it simple and concise for others to understand your code and for you to understand other people's code;
 - manage your time so that you get into your most productive time ASAP;
 - learn and improve all the time;
+- collaborate with other programmers;
 
